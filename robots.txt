@@ -1,0 +1,3 @@
+# Maintenance default is ON. Hosts should treat the site as unpublished until launch.
+User-agent: *
+Disallow: /
